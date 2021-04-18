@@ -13,7 +13,7 @@ Apart from the main timeline I've just described, I have written articles, worke
 
 --
 
-🧠 My skills:
+🧠  My skills:
 
 - iOS development: 
 	- Swift (from 1.1 to 5.3). Advanced Swift knowledge and love for the language. 
@@ -38,7 +38,7 @@ Apart from the main timeline I've just described, I have written articles, worke
 
 --
 
-📚 My articles:
+📚  My articles:
 
 - [Designing apps with remote flexibility](https://dev.to/fmo91/architecting-apps-for-remote-flexibility-3imj)
 - [Home widgets in iOS](https://dev.to/fmo91/home-widgets-in-ios-o7o)
@@ -80,3 +80,11 @@ Apart from the main timeline I've just described, I have written articles, worke
 - [Presentation Controls, custom views and lighter UIViewControllers - part 1](https://medium.com/ios-os-x-development/presentation-controls-custom-views-and-lighter-uiviewcontrollers-part-1-7934896e366f)
 - [Easily register and dequeue UITableViewCell in Swift](https://medium.com/ios-os-x-development/easily-register-and-dequeue-uitableviewcell-in-swift-cf01859bb54)
 
+--
+
+✍️ Important links:
+
+- [My personal blog on dev.to](https://dev.to/fmo91)
+- [My old personal blog on Medium](https://fmo91.medium.com/)
+- [My Linkedin](https://www.linkedin.com/in/fernando-mart%C3%ADn-ortiz-77649167/)
+- [My email](mailto:ortizfernandomartin@gmail.com)
