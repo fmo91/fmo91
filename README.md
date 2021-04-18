@@ -5,7 +5,7 @@ Hey everyone! I'm Fernando Ortiz, I'm 29 and work as a Software Engineer, remote
 - I graduated from the [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/)
 - I've worked 2.5 years as a researcher in Augmented Reality publishing papers like [this one](https://publications.waset.org/10000077/development-of-a-catalogs-system-for-augmented-reality-applications).
 - In February 2015, I started working as an iOS Developer in Adoos, a marketplace startup with mobile apps and a website.
-- In October 2015, I left Adoos to start working in [Infinixsoft](https://infinixsoft.com/), as a Software Engineer. I worked there until June 2020 in different roles, from iOS developer, to React Native/Node.js developer, to Project Leader and Mobile Architect.
+- In October 2015, I left Adoos to start working at [Infinixsoft](https://infinixsoft.com/), as a Software Engineer. I worked there until June 2020 in different roles, from iOS developer, to React Native/Node.js developer, to Project Leader and Mobile Architect.
 - Then, in July 2020, I started working at [Parser Digital](https://parserdigital.com/) where I'm working at this moment as a mobile Software Engineer and as Mobile Chapter Lead, organizing talks and events, and ensuring the knowledge is accordingly spread across the team.
 - I'm also a University professor at the [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/) since 2020.
 
