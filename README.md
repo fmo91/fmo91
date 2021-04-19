@@ -40,6 +40,7 @@ Apart from the main timeline I've just described, I have written articles, worke
 
 📚  My articles:
 
+- [Notes and links on fixing font imports in iOS](https://dev.to/fmo91/notes-and-links-on-fixing-font-imports-in-ios-1jc7)
 - [Designing apps with remote flexibility](https://dev.to/fmo91/architecting-apps-for-remote-flexibility-3imj)
 - [Home widgets in iOS](https://dev.to/fmo91/home-widgets-in-ios-o7o)
 - [Flutter: Initial impressions](https://dev.to/fmo91/flutter-initial-impressions-2b6p)
