@@ -1,6 +1,6 @@
 # I'm Fernando
 
-Hey everyone! I'm Fernando Ortiz, I'm 31 and work as a Software Engineer, remotely from Buenos Aires, Argentina. Let's start with a quick summary of my career:
+Hey everyone! I'm Fernando Ortiz, I'm 32 and work as a Software Engineer, remotely from Buenos Aires, Argentina. Let's start with a quick summary of my career:
 
 - I graduated from the [Universidad Nacional de La Matanza](https://www.unlam.edu.ar/)
 - I've worked 2.5 years as a researcher in Augmented Reality publishing papers like [this one](https://publications.waset.org/10000077/development-of-a-catalogs-system-for-augmented-reality-applications).
